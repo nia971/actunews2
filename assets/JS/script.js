@@ -1,0 +1,4 @@
+$(function() {
+    //Mon code JS ...
+    
+})
